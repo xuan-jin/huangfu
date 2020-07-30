@@ -1,6 +1,8 @@
 Abandon Fond!
 
-无拘无束去爱
+
+无拘无束去爱！
+
 
 Life is challeng and art!
 
