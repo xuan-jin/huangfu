@@ -1,6 +1,6 @@
 Abandon Fond!
 
-It is interesting!
+抛弃喜爱 && 无拘无束去爱
 
 Life is challeng and art!
 
