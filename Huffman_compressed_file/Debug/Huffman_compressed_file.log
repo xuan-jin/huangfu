@@ -1,0 +1,5 @@
+﻿  huffman_compressed.cpp
+E:\Project\C_primary\Huffman_compressed_file\Huffman_compressed_file\huffman_compressed.cpp(50,8): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+E:\Project\C_primary\Huffman_compressed_file\Huffman_compressed_file\huffman_compressed.cpp(108,24): warning C4244: “=”: 从“__int64”转换到“double”，可能丢失数据
+E:\Project\C_primary\Huffman_compressed_file\Huffman_compressed_file\huffman_compressed.cpp(113,24): warning C4244: “=”: 从“__int64”转换到“double”，可能丢失数据
+  Huffman_compressed_file.vcxproj -> E:\Project\C_primary\Huffman_compressed_file\Huffman_compressed_file\Debug\Huffman_compressed_file.exe
